@@ -1,0 +1,24 @@
+# EXPERIMENT NUMBER 2 
+# binary units : deterministic 
+## optimizer : adam 
+## number of hidden layers : 5 
+## number of hidden units : 250 
+## learning rate : 0.000100 
+## learning rate update steps: 184 
+## learning rate decay : 1.000000 
+## slope_annealing_rate : 0.005000 
+## dropout keep prob (no dropout if 1.0) : 1.000000 
+## batch size : 1 
+## lambda l2 : 0.000000 
+## approx number of steps: 18480000 
+## approx number of steps per epoch: 3696 
+1	2.64009791	0.00010000	0.49212569
+2	0.17264962	0.00010000	0.54569381
+3	1.52294487	0.00010000	0.57826084
+4	0.45841682	0.00010000	0.59123272
+5	1.27707681	0.00010000	0.61220670
+6	0.68847444	0.00010000	0.61761868
+7	1.13576543	0.00010000	0.62651545
+8	0.88772623	0.00010000	0.63134921
+9	nan	0.00010000	0.03718267
+10	nan	0.00010000	0.03725293
